@@ -1,4 +1,4 @@
-# security.authentication
+# Security Authentication
 Authentication Service to be used by other APIs.
 
 Springboot Security/Rest-API
